@@ -1,0 +1,3 @@
+C:/Users/grigo/Desktop/BSc Games Programming/Year 1/clion-sfml-template/cmake-build-debug/CMakeFiles/template.dir
+C:/Users/grigo/Desktop/BSc Games Programming/Year 1/clion-sfml-template/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/grigo/Desktop/BSc Games Programming/Year 1/clion-sfml-template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
